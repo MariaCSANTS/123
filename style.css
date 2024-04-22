@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabecalho{
+    background-color: #72027c;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 50px;
+    margin-top: 12%;
+    font-size: 26px;
+}
+
+.rosaroxa{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 23%;
+}
